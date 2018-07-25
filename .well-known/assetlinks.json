@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "org.solamour.myapp",
+        "sha256_cert_fingerprints": ["40:A3:9D:62:CF:43:42:83:61:FE:2A:B0:47:39:98:9F:CC:9B:7C:7D:C1:33:56:CE:08:8A:D9:38:BF:93:F8:5C"]
+    }
+}]
+
