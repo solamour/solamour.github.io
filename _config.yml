@@ -1,1 +1,1 @@
-include: [".well-known", "deeplink"]
+include: [".well-known", "dynamic_link"]
