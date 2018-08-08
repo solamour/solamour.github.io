@@ -1,1 +1,1 @@
-include: [".well-known", "invites", "deeplink"]
+include: [".well-known", "deeplink"]
