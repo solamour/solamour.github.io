@@ -1,1 +1,1 @@
-include: [".well-known", "dynamic_link", "auth_email_link"]
+include: [".well-known", "dynamic_link"]
