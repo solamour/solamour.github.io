@@ -3,7 +3,10 @@
     "target": {
         "namespace": "android_app",
         "package_name": "org.solamour.myapp",
-        "sha256_cert_fingerprints": ["40:A3:9D:62:CF:43:42:83:61:FE:2A:B0:47:39:98:9F:CC:9B:7C:7D:C1:33:56:CE:08:8A:D9:38:BF:93:F8:5C"]
+        "sha256_cert_fingerprints": [
+            "40:A3:9D:62:CF:43:42:83:61:FE:2A:B0:47:39:98:9F:CC:9B:7C:7D:C1:33:56:CE:08:8A:D9:38:BF:93:F8:5C",
+            "B8:19:42:44:6F:DB:62:02:1C:91:F7:F3:3F:B8:7E:B2:B5:2B:99:DD:46:B9:20:4F:08:4B:AD:F9:8B:3A:5E:0B"
+        ]
     }
 }]
 
